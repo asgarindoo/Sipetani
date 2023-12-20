@@ -1,26 +1,34 @@
-﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
-
-html, body {
-    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+﻿html, body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    
 }
 
-h1:focus {
-    outline: none;
-}
-
-a, .btn-link {
-    color: #0071c1;
-}
-
-.btn-primary {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
-}
 
 .content {
     padding-top: 1.1rem;
 }
+
+.logo{
+    height:150px;
+}
+
+.logo-sipetani {
+    width:200px;
+    padding: 0 0 0 25px;
+}
+
+.sidenavbar {
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
 
 .valid.modified:not([type=checkbox]) {
     outline: 1px solid #26b050;
